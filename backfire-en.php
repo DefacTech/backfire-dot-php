@@ -1,7 +1,7 @@
-<!TITLE- Backfire Filter dot PHP!>
+<!TITLE- Backfire Filter dot PHP !>
 <!Author- Dalton Hill, other, other, other!>
 <!Translator- none!>
-<!We are in need of some ideas. This file must be in plain English. If you wish to recreate Backfire in other languages, that would be great. We prefer it to be backfire-es.php, backfire-fr.php, and so on. 
+<!We are in need of some ideas. This file must be in plain English. If you wish to recreate Backfire in other languages, that would be great. We prefer it to be backfire-es.php, backfire-fr.php, and so on. You'll see the filenames in backfire.php !>
 
 <?php
 if( strpos($_POST["user_input"],"he is a nigger","he's a nigger","she is a nigger","she's a nigger","kill all niggers","he is a cracker","he's a cracker","she is a cracker","she's a cracker","kill all crackers","he is a wetback","he's a wetback","she is a wetback","she's a wetback","kill all wetbacks")!==FALSE ) {
