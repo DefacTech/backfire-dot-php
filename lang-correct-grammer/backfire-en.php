@@ -28,7 +28,7 @@ if( strpos($_POST["user_input"],"cunts","whores")!==FALSE ) {
 if( strpos($_POST["user_input"],"All Muslims are terrorists",)!==FALSE ) {
     echo("All Muslims are terrortists. And using my logic, if all Muslims are terrorists, then all Christians are bigoted assholes, all Hindu men and lesbians ask for bob and vagene, and all Jews are some greedy motherfuckers" );
 }
-/*Why isn't Atheism included here? Because we are soulless robots who like to eat dead fetuses. Fuckin' delicious.*/
+/*Why isn't Atheism included here? Because basically we're accused of being evil and having no morals over the simple fact we don't believe a supreme being exists.*/
 
 if( strpos($_POST["user_input"],"Go back to Africa","Go back to Africa, Nigger",)!==FALSE ) {
     echo("That's it! I'm going back to Europe" );
