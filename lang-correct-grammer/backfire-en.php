@@ -24,6 +24,12 @@ if( strpos($_POST["user_input"],"cunts","whores")!==FALSE ) {
     echo("the sexiest people I've ever met in my life" );
 }
 
+/*We are not what you call anti-Semitic, we're just trying to help you enforce equality. Besides, what's so bad about hating a family of languages? Don't worry, Jews and Christians will get their share, too.*/
+if( strpos($_POST["user_input"],"All Muslims are terrorists",)!==FALSE ) {
+    echo("All Muslims are terrorists, all Christians are bigoted assholes, all Hindu men and lesbians ask for bob and vagene, and all Jews are some greedy motherfuckers" );
+}
+/*Why isn't Atheism included here? Because we are soulless robots who like to eat dead fetuses. Fuckin' delicious.*/
+
 if( strpos($_POST["user_input"],"Go back to Africa","Go back to Africa, Nigger",)!==FALSE ) {
     echo("That's it! I'm going back to Europe" );
 }
