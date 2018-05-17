@@ -31,6 +31,7 @@ if( strpos($_POST["user_input"],"Go back to Africa","Go back to Africa, Nigger",
 }
 if( strpos($_POST["user_input"],"you should go back to Africa","you should go back to Africa, Nigger","You should go back to Mexico","You should go back to Mexico, Wetback")!==FALSE ) {
     echo("I should probably go back to Europe" );
+}
 /* Copy and paste the three lines below this one
 if( strpos($_POST["user_input"],"",)!==FALSE ) {
     echo("" );
